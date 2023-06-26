@@ -4,6 +4,12 @@ Repositório de instrução para o desafio técnico para a vaga de Pessoa Desenv
 
 ## Descrição do desafio
 
+Neste desafio, sua tarefa é desenvolver um ScrollTelling em React que apresente um modelo 3D do Cristo Redentor. A solução final deve ser hospedada no [GitHub Pages](https://pages.github.com/).
+
+A visualização deve iniciar com um plano 2D do mapa da cidade do Rio de Janeiro e, em seguida, navegar até o modelo 3D do Cristo Redentor. Você deve criar pelo menos quatro seções, onde a câmera percorrerá os principais membros do modelo (cabeça, tronco, braços, pernas), e em cada seção, exibirá curiosidades sobre a respectiva parte. Para preencher essas cruriosidades, você pode utilizar texto fictício do tipo "Lorem ipsum" para ilustração.
+
+Recomendamos o uso das bibliotecas Mapbox GL e Three.js para incluir o modelo 3D no mapa e utilizar a biblioteca ScrollTrigger para controlar as transições. Essas bibliotecas são amplamente utilizadas nas nossas [visualizações](https://www.dados.rio/especiais) listadas nas referências.
+
 ## O que iremos avaliar
 
 1. **Completude**: O código desenvolvido apresenta uma solução para o problema proposto? Caso não consiga finalizar, apresenta uma solução parcial?
