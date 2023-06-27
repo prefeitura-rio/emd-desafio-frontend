@@ -26,8 +26,6 @@ Recomendamos o uso das bibliotecas Mapbox GL e Three.js para incluir o modelo 3D
 - O repositório deve conter instruções claras e precisas para a execução da solução proposta, pois será testado por um terceiro.
 - Você deve ser capaz de apresentar sua solução, explicando como a idealizou, caso seja aprovado(a) para a próxima etapa.
 
-## Etapas
-
 ## Links de referência / utilidades
 
 - [Arquivo: Modelo 3D do Cristo Redentor (.skp)](https://cdn.discordapp.com/attachments/894363843399127061/1122941155722661938/cristo.skp)
