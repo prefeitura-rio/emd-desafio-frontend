@@ -22,7 +22,7 @@ Recomendamos o uso das bibliotecas Mapbox GL e Three.js para incluir o modelo 3D
 
 - A solução desse desafio deve ser publicada em um fork deste repositório no Github.
 - A solução final deve ser hospedada no GitHub Pages.
-- O link do repositório deve ser enviado até às 23:59, horário de Brasília, do dia 04/julho/2023 (terça-feira) para o e-mail utilizado para contato com o assunto "Desafio Front-end Developer - EMD".
+- O link do repositório deve ser enviado até às 23:59, horário de Brasília, do dia 06/julho/2023 (terça-feira) para o e-mail utilizado para contato com o assunto "Desafio Front-end Developer - EMD".
 - O repositório deve conter instruções claras e precisas para a execução da solução proposta, pois será testado por um terceiro.
 - Você deve ser capaz de apresentar sua solução, explicando como a idealizou, caso seja aprovado(a) para a próxima etapa.
 
